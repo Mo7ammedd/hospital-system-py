@@ -1,4 +1,3 @@
-Here's a GitHub-style README for your project:
 
 # Hospital Management System
 
@@ -48,7 +47,7 @@ This is a simple Hospital Management System implemented in Python, allowing user
 
 ## Contributors
 
-- [Your Name](https://github.com/mohammedd20)
+- [Mohammed Mostafa](https://github.com/mohammedd20)
 
 Feel free to contribute to this project by submitting pull requests or reporting issues.
 
